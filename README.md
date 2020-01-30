@@ -1,3 +1,10 @@
+takke's modification
+====================
+- Migrate to AndroidX
+- Update sdk version: targetSdkVersion, compileSdkVersion, minSdkVersion
+- Replace FloatMath with Math
+- via jitpack: https://jitpack.io/#takke/ViewPagerIndicator
+
 Android ViewPagerIndicator
 ==========================
 
