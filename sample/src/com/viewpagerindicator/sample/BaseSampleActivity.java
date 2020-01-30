@@ -4,8 +4,8 @@ import java.util.Random;
 
 import com.viewpagerindicator.PageIndicator;
 
-import android.support.v4.app.FragmentActivity;
-import android.support.v4.view.ViewPager;
+import androidx.fragment.app.FragmentActivity;
+import androidx.viewpager.widget.ViewPager;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
